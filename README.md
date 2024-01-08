@@ -96,3 +96,7 @@ Some Screenshots for the project:
   Home Page
 ![Screenshot (988)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/2dfe4507-7c3e-43d9-ac98-f47f2bebbe09)
 
+  Login Page
+  ![Screenshot (989)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/8c68cef1-c36a-4651-aefc-d5614915019b)
+
+
