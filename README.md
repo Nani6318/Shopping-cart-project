@@ -141,6 +141,7 @@ Some Screenshots for the project:
 
   Sample Email for order placed
   ![Screenshot (1003)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/9373c38c-2ef7-4573-b511-facf7efdc0cd)
+  
 
   Sample Class Diagram
   ![85d046a3-7bbe-4ed1-9b6e-d7e4629c1f62](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/d6bfb673-7bb2-4c6b-87ef-eaac7a620345)
