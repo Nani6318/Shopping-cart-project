@@ -38,7 +38,7 @@ STEP 2: Login to the administrator user of MySql: mysql -u <username> -p (Enter 
 
 STEP 3: Copy paste and execute the MySQL Query from the following file:-
 
-Run the Sql Query From this file: https://databases/mysql_query.sql
+Run the Sql Query From this file: https://github.com/Nani6318/Shopping-cart-project/blob/main/databases/mysql_query.sql
 
 ======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
 
