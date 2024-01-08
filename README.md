@@ -88,3 +88,11 @@ Step 9: [To Change the Port, if getting error like 'port already in use'] Open T
 Step 10: Default Username And Password For Admin Is "admin@gmail.com" And "admin"
 
 Step 11: The default Username And Password For User Is "guest@gmail.com" And "guest"
+
+Note:- This is a Sample Project for learning purpose, we have not much considered of web security.
+
+Some Screenshots for the project:
+
+  Home Page
+![Screenshot (988)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/2dfe4507-7c3e-43d9-ac98-f47f2bebbe09)
+
