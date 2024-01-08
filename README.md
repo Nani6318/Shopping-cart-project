@@ -37,6 +37,7 @@ STEP 1: Open MySQL Command Prompt or MySQL Workbench
 STEP 2: Login to the administrator user of MySql: mysql -u <username> -p (Enter Password if asked)
 
 STEP 3: Copy paste and execute the MySQL Query from the following file:-
+
 Run the Sql Query From this file: databases/mysql_query.sql
 
 ======GENERATING GMAIL APP PASSWORD [For Mailing Functionalities]========
