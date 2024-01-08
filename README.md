@@ -89,7 +89,7 @@ Step 10: Default Username And Password For Admin Is "admin@gmail.com" And "admin
 
 Step 11: The default Username And Password For User Is "guest@gmail.com" And "guest"
 
-Note:- This is a Sample Project for learning purpose, we have not much considered of web security.
+Note:- This is a Sample Project for learning purpose, I have not much considered of web security.
 
 Some Screenshots for the project:
 
@@ -98,5 +98,68 @@ Some Screenshots for the project:
 
   Login Page
   ![Screenshot (989)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/8c68cef1-c36a-4651-aefc-d5614915019b)
+
+  Register Page
+  ![Screenshot (990)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/f063c5cf-dfd7-4e9f-82d3-bcfa80a9981c)
+
+  Category Wise Product Filter
+  ![Screenshot (991)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/105f6cae-a081-407f-8ae9-52633a235bd2)
+
+  Cart Items
+  ![Screenshot (987)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/98c386b7-cb44-4736-9192-105d72b351b9)
+
+  Credit Card Payment
+  ![Screenshot (992)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/299f0d3b-a2fd-4176-96af-41157a81c363)
+
+  Order Details & Status
+  ![Screenshot (993)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/fcfaf962-bcf5-469f-a3d5-935e6ca704d0)
+
+  User Profile
+  ![Screenshot (994)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/d2d9850a-75ee-4d57-ad8c-d03825f577a6)
+
+  Admin Home
+  ![Screenshot (996)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/b993efe4-a3d6-49c9-9792-90b1c52f9dd7)
+
+  Stock Items
+  ![Screenshot (997)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/6b57dc70-117b-45d6-9505-c74ee3a1f167)
+
+  UnShipped Items
+  ![Screenshot (998)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/c52668f3-3400-4db7-8db9-a9db83f611d3)
+
+  Shipped Orders
+  ![Screenshot (1004)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/e55fb187-90b7-4188-9c2f-97396737ba4d)
+  
+  Add Product to the stock
+  ![Screenshot (999)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/1148b420-7790-4ba4-8bf1-14f98d90badc)
+
+  Remove Product from stock
+  ![Screenshot (1000)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/8bf8643c-39a3-4e91-b9d8-65fe5366ffe5)
+
+  Update the Stock item
+  ![Screenshot (1002)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/f32b6735-2275-46b3-8f46-e83c61266126)
+
+
+  Sample Email for order placed
+  ![Screenshot (1003)](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/9373c38c-2ef7-4573-b511-facf7efdc0cd)
+
+  Sample Class Diagram
+  ![85d046a3-7bbe-4ed1-9b6e-d7e4629c1f62](https://github.com/Nani6318/Shopping-cart-project/assets/145996378/d6bfb673-7bb2-4c6b-87ef-eaac7a620345)
+  
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
 
 
